@@ -1,0 +1,4 @@
+Detector,Accuracy,Precision,Recall,F1-score,False-positive rate
+Rule-based only,0.56,1.0,0.15,0.261,0.0
+ML-only,0.862,0.958,0.767,0.852,0.036
+Combined,0.871,0.959,0.783,0.862,0.036
